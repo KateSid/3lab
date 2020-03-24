@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<student lastname="Петров">
+    <subject title = "Предмет1" mark = "5"/>
+    <subject title = "Предмет2" mark = "5"/>
+    <subject title = "Предмет3" mark = "4"/>
+    <subject title = "Предмет4" mark = "4"/>
+    <subject title = "Предмет5" mark = "4"/>
+    <average> 5 </average>
+</student>
